@@ -1,5 +1,9 @@
 ## Superstores  
-Data Analyses of superstores in USA  
+Data Analyses of superstores in USA
+
+![alt text](26252.jpg "Superstores")
+
+
 dataset : https://www.kaggle.com/datasets/vivek468/superstore-dataset-final  
 
 lien binder :   

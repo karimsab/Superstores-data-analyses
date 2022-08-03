@@ -1,7 +1,7 @@
 ## Superstores  
 Data Analyses of superstores in USA
 
-![alt text](26252.jpg "Superstores")
+![26252](https://user-images.githubusercontent.com/62601686/182675222-0738a62c-61af-4c9e-947e-3f9dfc8ea06e.jpg)
 
 
 dataset : https://www.kaggle.com/datasets/vivek468/superstore-dataset-final  

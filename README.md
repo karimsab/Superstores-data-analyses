@@ -6,8 +6,8 @@ Dataset : données sur des magasins en ligne aux USA
 
 dataset : https://www.kaggle.com/datasets/vivek468/superstore-dataset-final  
 
-lien binder :   
+L'objectif de cette étude est de prendre en main le dataset unifiant les informations issues de différents magasins en ligne aux Etats-Unis et d'effectuer des analyses afin d'extraire et de mettre en évidence des tendances business et les relations de cause à effet.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/karimsab/Superstores/HEAD)
+Le dataset est composé des variables suivantes :
 
-
+![columns_name](https://user-images.githubusercontent.com/62601686/184536612-2d4a585e-9ea6-4044-b5be-a38164ee5867.png)

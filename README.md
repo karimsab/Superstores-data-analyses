@@ -10,4 +10,4 @@ L'objectif de cette étude est de prendre en main le dataset unifiant les inform
 
 Le dataset est composé des variables suivantes :
 
-![columns_name](https://user-images.githubusercontent.com/62601686/184536612-2d4a585e-9ea6-4044-b5be-a38164ee5867.png)
+![columns_name](https://user-images.githubusercontent.com/62601686/184536690-65e98fe9-044d-49c8-a862-21d3bcd998f4.png)

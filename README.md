@@ -8,6 +8,6 @@ dataset : https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 L'objectif de cette étude est de prendre en main le dataset unifiant les informations issues de différents magasins en ligne aux Etats-Unis et d'effectuer des analyses afin d'extraire et de mettre en évidence des tendances business et les relations de cause à effet.
 
-Le dataset est composé des variables suivantes :
+On affiche les variabes du dataset, ainsi que le nombres de modalités différentes, et les modalités, lorsqu'on peut les afficher :
 
-![columns_name](https://user-images.githubusercontent.com/62601686/184536690-65e98fe9-044d-49c8-a862-21d3bcd998f4.png)
+![table](https://user-images.githubusercontent.com/62601686/193916333-e4df2312-a925-4c96-938a-596d30e53d97.png)

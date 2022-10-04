@@ -10,4 +10,4 @@ L'objectif de cette étude est de prendre en main le dataset unifiant les inform
 
 On affiche les variabes du dataset, ainsi que le nombres de modalités différentes, et les modalités, lorsqu'on peut les afficher :
 
-![table](https://user-images.githubusercontent.com/62601686/193916333-e4df2312-a925-4c96-938a-596d30e53d97.png)
+![table](https://user-images.githubusercontent.com/62601686/193916917-18e1eb9b-8a19-4c90-8196-b9ce08f3d7aa.png)

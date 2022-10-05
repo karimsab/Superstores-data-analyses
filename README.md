@@ -10,9 +10,10 @@ L'objectif de cette étude est de prendre en main le dataset unifiant les inform
 
 On affiche les variabes du dataset, ainsi que le nombres de modalités différentes, et les modalités, lorsqu'on peut les afficher :
 
-![table](https://user-images.githubusercontent.com/62601686/193916917-18e1eb9b-8a19-4c90-8196-b9ce08f3d7aa.png)
+![table](https://user-images.githubusercontent.com/62601686/194066106-8b600f55-42aa-4739-ba16-93f4de0735fc.png)
 
 
 On peut maintenant tracer les variables quantitatives qui nous intéressent : 
 
-![distrib_box](https://user-images.githubusercontent.com/62601686/194054519-a15ea1c6-3166-45b8-95bf-604a641834fc.png)
+![var_quant](https://user-images.githubusercontent.com/62601686/194066272-cdbe7e5f-c608-414e-8f42-984b4929cf3e.png)
+

@@ -17,3 +17,6 @@ On peut maintenant tracer les variables quantitatives qui nous intéressent :
 
 ![var_quant](https://user-images.githubusercontent.com/62601686/194066272-cdbe7e5f-c608-414e-8f42-984b4929cf3e.png)
 
+> Sales : cette variable a quelques valeurs extrêmes lorsqu'on dépasse 10k d'achats  
+> Profit : le profit varie de -6k à 8k environ.  
+> Discount : cette variable détient des valeurs comprises entre 0 et 80% de réduction. La médiane se situant à 20%.  

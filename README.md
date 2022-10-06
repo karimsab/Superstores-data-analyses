@@ -39,6 +39,7 @@ En affichant les pertes par catégorie, on remarque que les plus grosses pertes 
 Et en affichant d'autres variables, ont peut exhiber d'autres informations importantes :
 
 ![profitvsregvscat](https://user-images.githubusercontent.com/62601686/194390042-85a2aca0-a5ac-4aa1-b888-f3f166212fe6.png)
+![profitvsregvscat2](https://user-images.githubusercontent.com/62601686/194390500-abe82336-5d2c-4e49-bb13-af464daa52d2.png)
 
 Profit vs Discount :
 > On voit que les pertes se concentrent sur la région centrale des Etats-Unis, ainsi que la région Est.  

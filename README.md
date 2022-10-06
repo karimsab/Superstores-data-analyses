@@ -89,8 +89,9 @@ On effectue au préalable un groupby qui permet d'afficher les moyennes des vent
 
 Attelons-nous à afficher certains KPIs tel que le panier moyen par exemple :
 
-![kpi1](https://user-images.githubusercontent.com/62601686/194398590-0a8c9b08-08da-4b4d-ab2f-ddcdfa00101c.png)
+![Capture d’écran 2022-10-06 à 21 20 05](https://user-images.githubusercontent.com/62601686/194400676-a134f903-2c04-4cc8-a980-969cf40fba67.png)
 
-![kpi2](https://user-images.githubusercontent.com/62601686/194398618-91ed40ba-dc5f-43ac-9bb5-b7eebbda2cae.png)
+
+![Capture d’écran 2022-10-06 à 21 21 38](https://user-images.githubusercontent.com/62601686/194400696-555bfd45-dee3-47ac-85f4-ec294816d13a.png)
 
 > On sait maintenant quels clients ont les plus gros paniers moyens, ainsi que les villes où les clients dépensent le plus.

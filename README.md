@@ -1,7 +1,7 @@
 ## Superstores  
 Dataset : données sur des magasins en ligne aux USA
 
-![Capture d’écran 2022-10-06 à 14 24 11](https://user-images.githubusercontent.com/62601686/194389797-41b83d37-82d3-4e72-a5fc-b774bc17ec20.png)
+![Capture d’écran 2022-10-06 à 14 01 41](https://user-images.githubusercontent.com/62601686/194390270-b9e77d2c-3ced-465c-89bf-7a3071c13c7b.png)
 
 ©123RF
 
@@ -11,7 +11,7 @@ L'objectif de cette étude est de prendre en main le dataset unifiant les inform
 
 On affiche les variabes du dataset, ainsi que le nombres de modalités différentes, et les modalités, lorsqu'on peut les afficher :
 
-![table](https://user-images.githubusercontent.com/62601686/194066106-8b600f55-42aa-4739-ba16-93f4de0735fc.png)
+![Capture d’écran 2022-10-06 à 14 24 11](https://user-images.githubusercontent.com/62601686/194389797-41b83d37-82d3-4e72-a5fc-b774bc17ec20.png)
 
 
 On peut maintenant tracer les variables quantitatives qui nous intéressent : 

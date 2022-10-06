@@ -83,3 +83,14 @@ On effectue au préalable un groupby qui permet d'afficher les moyennes des vent
 ![scattergeo](https://user-images.githubusercontent.com/62601686/194306633-3867a377-cb54-4c83-b3dd-fd58b3ed5fd0.png)
 
 > On distingue bien les villes qui obtiennent les meilleurs profits, telles que : Jamestown, Lafayette, Independance... (le fichier jupyter permet de profiter des fonctionnalités de la librairie plotly, dont celle d'avoir un graphique intéractif)
+
+
+# KPI
+
+Attelons-nous à afficher certains KPIs tel que le panier moyen par exemple :
+
+![kpi1](https://user-images.githubusercontent.com/62601686/194398590-0a8c9b08-08da-4b4d-ab2f-ddcdfa00101c.png)
+
+![kpi2](https://user-images.githubusercontent.com/62601686/194398618-91ed40ba-dc5f-43ac-9bb5-b7eebbda2cae.png)
+
+> On sait maintenant quels clients ont les plus gros paniers moyens, ainsi que les villes où les clients dépensent le plus.

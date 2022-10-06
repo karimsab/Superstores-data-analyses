@@ -71,7 +71,7 @@ La catégorie de produits technologiques offre les profits les plus importants.
 
 ## Scatter Geo
 
-Après avoir récolter les données géographiques de chaque ville, on les intègre au dataframe afin d'obtenir les latitudes et longitudes pour chaque ville.
+Après avoir récolter les coordonnées géographiques de chaque ville (lien du site = https://simplemaps.com/data/us-cities), on les intègre au dataframe afin d'obtenir les latitudes et longitudes pour chaque ville.
 
 On effectue au préalable un groupby qui permet d'afficher les moyennes des ventes par ville
 

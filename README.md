@@ -5,7 +5,7 @@ Dataset : données sur des magasins en ligne aux USA
 
 ©123RF
 
-dataset : https://www.kaggle.com/datasets/vivek468/superstore-dataset-final  
+lien du dataset : https://www.kaggle.com/datasets/vivek468/superstore-dataset-final  
 
 L'objectif de cette étude est de prendre en main le dataset unifiant les informations issues de différents magasins en ligne aux Etats-Unis et d'effectuer des analyses afin d'extraire et de mettre en évidence des tendances business et les relations de cause à effet.
 
@@ -48,7 +48,7 @@ Profit vs Category
 
 
 ## Variables catégorielles
-> On décide maintenant d'afficher la distribution des variables catégorielles :
+On décide maintenant d'afficher la distribution des variables catégorielles :
 
 
 ![varcat](https://user-images.githubusercontent.com/62601686/194305599-1b9f455b-eefc-43a6-a57f-fb7c6d1b9fbc.png)
@@ -70,9 +70,9 @@ La catégorie de produits technologiques offre les profits les plus importants.
 
 ## Scatter Geo
 
-Après avoir récolter les données géographiques de chaque ville, on les intègre au dataframe afin d'obtenir les latitudes et longitudes pour chaque ville
+Après avoir récolter les données géographiques de chaque ville, on les intègre au dataframe afin d'obtenir les latitudes et longitudes pour chaque ville.
 
-> On effectue au préalable un groupby qui permet d'afficher les moyennes des ventes par ville
+On effectue au préalable un groupby qui permet d'afficher les moyennes des ventes par ville
 
 ![Capture d’écran 2022-10-06 à 13 55 08](https://user-images.githubusercontent.com/62601686/194306300-a129f02f-a737-4064-9cf9-bedfb9b4bdd4.png)
 
@@ -81,4 +81,4 @@ Après avoir récolter les données géographiques de chaque ville, on les intè
 
 ![scattergeo](https://user-images.githubusercontent.com/62601686/194306633-3867a377-cb54-4c83-b3dd-fd58b3ed5fd0.png)
 
-On distingue bien les villes qui obtiennent les meilleurs profits, telles que : Jamestown, Lafayette, Independance...
+> On distingue bien les villes qui obtiennent les meilleurs profits, telles que : Jamestown, Lafayette, Independance...

@@ -65,7 +65,7 @@ Traçons maintenant la relation entre les ventes et les profits selon les catég
 ![salesprofitcat](https://user-images.githubusercontent.com/62601686/194305868-fe0dcb47-3613-44d2-8849-325b37f3e89e.png)
 
 
-La catégorie de produits technologiques offre les profits les plus importants.
+La catégorie de produits technologiques offre les profits les plus importants. (le fichier jupyter permet de profiter des fonctionnalités de la librairie plotly, dont celle d'avoir un graphique intéractif)
 
 
 ## Scatter Geo

@@ -1,7 +1,7 @@
 ## Superstores  
 Dataset : données sur des magasins en ligne aux USA
 
-![Capture d’écran 2022-10-06 à 14 01 41](https://user-images.githubusercontent.com/62601686/194307595-74d5f087-837d-4f2c-86b2-129e00e481b4.png)
+![Capture d’écran 2022-10-06 à 14 24 11](https://user-images.githubusercontent.com/62601686/194389797-41b83d37-82d3-4e72-a5fc-b774bc17ec20.png)
 
 ©123RF
 
@@ -38,7 +38,7 @@ En affichant les pertes par catégorie, on remarque que les plus grosses pertes 
 
 Et en affichant d'autres variables, ont peut exhiber d'autres informations importantes :
 
-![profitvsdiscountpercat](https://user-images.githubusercontent.com/62601686/194305390-7e48460c-aca1-4965-ba0d-a50beb1f8800.png)
+![profitvsregvscat](https://user-images.githubusercontent.com/62601686/194390042-85a2aca0-a5ac-4aa1-b888-f3f166212fe6.png)
 
 Profit vs Discount :
 > On voit que les pertes se concentrent sur la région centrale des Etats-Unis, ainsi que la région Est.  
@@ -65,7 +65,7 @@ Traçons maintenant la relation entre les ventes et les profits selon les catég
 ![salesprofitcat](https://user-images.githubusercontent.com/62601686/194305868-fe0dcb47-3613-44d2-8849-325b37f3e89e.png)
 
 
-La catégorie de produits technologiques offre les profits les plus importants. (le fichier jupyter permet de profiter des fonctionnalités de la librairie plotly, dont celle d'avoir un graphique intéractif)
+La catégorie de produits technologiques offre les profits les plus importants. 
 
 
 ## Scatter Geo
@@ -81,4 +81,4 @@ On effectue au préalable un groupby qui permet d'afficher les moyennes des vent
 
 ![scattergeo](https://user-images.githubusercontent.com/62601686/194306633-3867a377-cb54-4c83-b3dd-fd58b3ed5fd0.png)
 
-> On distingue bien les villes qui obtiennent les meilleurs profits, telles que : Jamestown, Lafayette, Independance...
+> On distingue bien les villes qui obtiennent les meilleurs profits, telles que : Jamestown, Lafayette, Independance... (le fichier jupyter permet de profiter des fonctionnalités de la librairie plotly, dont celle d'avoir un graphique intéractif)

@@ -35,3 +35,49 @@ En affichant les pertes par catégorie, on remarque que les plus grosses pertes 
 
 ![profitvsdiscountpercat](https://user-images.githubusercontent.com/62601686/194284144-d63eb7ff-973f-4a43-9684-402addaca954.png)
 
+Et en affichant d'autres variables, ont peut exhiber d'autres informations importantes :
+
+![profitvsdiscountpercat](https://user-images.githubusercontent.com/62601686/194305390-7e48460c-aca1-4965-ba0d-a50beb1f8800.png)
+
+Profit vs Discount :
+> On voit que les pertes se concentrent sur la région centrale des Etats-Unis, ainsi que la région Est.  
+
+Profit vs Category
+> Ce graphique nous informe que ce sont les classeurs et machines qui constituent les plus grandes pertes.
+
+
+## Variables catégorielles
+> On décide maintenant d'afficher la distribution des variables catégorielles :
+
+
+![varcat](https://user-images.githubusercontent.com/62601686/194305599-1b9f455b-eefc-43a6-a57f-fb7c6d1b9fbc.png)
+
+
+> __Ship Mode__ : sans surprise, la classe standard est la préférée des clients.  
+> __Segment__ : Le plus gros segment est représenté par les particuliers, vient ensuite les sociétés puis le home office.  
+> __Catgory__ : La catégorie d'objet qui se vend le plus est les fournitures de bureau, puis le mobilier et les objets technologiques en dernier.  
+> __Region__ : La région Ouest enregistre le plus de ventes.
+
+
+Traçons maintenant la relation entre les ventes et les profits selon les catégories :
+
+![salesprofitcat](https://user-images.githubusercontent.com/62601686/194305868-fe0dcb47-3613-44d2-8849-325b37f3e89e.png)
+
+
+La catégorie de produits technologiques offre les profits les plus importants.
+
+
+## Scatter Geo
+
+Après avoir récolter les données géographiques de chaque ville, on les intègre au dataframe afin d'obtenir les latitudes et longitudes pour chaque ville
+
+> On effectue au préalable un groupby qui permet d'afficher les moyennes des ventes par ville
+
+![Capture d’écran 2022-10-06 à 13 55 08](https://user-images.githubusercontent.com/62601686/194306300-a129f02f-a737-4064-9cf9-bedfb9b4bdd4.png)
+
+**Scatter Geo** nous permet d'afficher pour chaque ville, les variables qu'on souhaite, sous forme de bulles dont la taille est définie par la variable choisie.
+
+
+![scattergeo](https://user-images.githubusercontent.com/62601686/194306633-3867a377-cb54-4c83-b3dd-fd58b3ed5fd0.png)
+
+On distingue bien les villes qui obtiennent les meilleurs profits, telles que : Jamestown, Lafayette, Independance...

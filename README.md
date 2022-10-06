@@ -1,8 +1,9 @@
 ## Superstores  
 Dataset : données sur des magasins en ligne aux USA
 
-![26252](https://user-images.githubusercontent.com/62601686/182675222-0738a62c-61af-4c9e-947e-3f9dfc8ea06e.jpg)
+![Capture d’écran 2022-10-06 à 14 01 41](https://user-images.githubusercontent.com/62601686/194307595-74d5f087-837d-4f2c-86b2-129e00e481b4.png)
 
+©123RF
 
 dataset : https://www.kaggle.com/datasets/vivek468/superstore-dataset-final  
 
